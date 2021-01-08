@@ -1,0 +1,22 @@
+{
+  "name": "memorycheck",
+  "version": "1.0.0",
+  "description": "Check your memory!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LxrsV1-YT/memory-check.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Gary Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LxrsV1-YT/memory-check/issues"
+  },
+  "homepage": "https://github.com/LxrsV1-YT/memory-check#readme"
+}
