@@ -8,18 +8,15 @@
 
 ## usage
 ```
-const ddos = require("anti-ddos")
+const memory = require("memory-check")
 
-ddos.<function>
+memory.<function>
 ```
 
 ### functions
 Function list:
 ```
 memory();
-ddosCheck();
-ping(); // might not work
-checkInterval();
 ```
 
 ### What the functions do
@@ -27,18 +24,6 @@ checkInterval();
 memory();
 ```
 Checks the memory of the system in mb (megabites)
-
-```
-ddosCheck();
-```
-Checks if there is any ddos attacks
-
-```
-ping();
-```
-Might not work yet
-
-
 
 ## Author
 
