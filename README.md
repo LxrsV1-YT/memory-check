@@ -8,9 +8,9 @@
 
 ## usage
 ```
-const memory = require("memorycheck")
+const ddos = require("anti-ddos")
 
-memory.<function>
+ddos.<function>
 ```
 
 ### functions
