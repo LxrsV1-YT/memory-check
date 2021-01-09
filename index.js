@@ -3,7 +3,7 @@ function memory() {
     arr.reverse();
     const used = process.memoryUsage().heapUsed / 1024 / 1024;
     var mb = Math.round(used * 100) / 100
-    console.log(`${mb} MB in use!`);
+    return mb;
 }
 
 module.exports.memory = this.memory;
