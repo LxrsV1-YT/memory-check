@@ -1,6 +1,6 @@
 {
   "name": "memorycheck",
-  "version": "1.0.3",
+  "version": "1.0.3.1",
   "description": "Check your mb!",
   "main": "index.js",
   "scripts": {
